@@ -3,8 +3,8 @@ Julissa Paramo
 10/5/23
 Arithmetic in Strings
 '''
-
-
+# for loops w strings
+# failed lab assignment , only works for integers ! ! !
 
 nums1 = (input('Enter numbers to make three lists!\nList 1: ')) # gets three numbers from user to make each list
 nums2 = (input('List 2: '))
@@ -36,3 +36,6 @@ if len(list1) == len(list2) == len(list3): # checks if all three lists are the s
 else:
 									
 	print('All lists are required to be the same length.') # if they're not the same length there's an error
+
+
+
